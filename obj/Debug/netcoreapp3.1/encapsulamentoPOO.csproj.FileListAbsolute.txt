@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\encapsulamentoPOO\bin\Debug\netcoreapp3.1\encapsulamentoPOO.exe
+C:\Users\gabriel\Documents\GitHub\encapsulamentoPOO\bin\Debug\netcoreapp3.1\encapsulamentoPOO.deps.json
+C:\Users\gabriel\Documents\GitHub\encapsulamentoPOO\bin\Debug\netcoreapp3.1\encapsulamentoPOO.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\encapsulamentoPOO\bin\Debug\netcoreapp3.1\encapsulamentoPOO.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\encapsulamentoPOO\bin\Debug\netcoreapp3.1\encapsulamentoPOO.dll
+C:\Users\gabriel\Documents\GitHub\encapsulamentoPOO\bin\Debug\netcoreapp3.1\encapsulamentoPOO.pdb
+C:\Users\gabriel\Documents\GitHub\encapsulamentoPOO\obj\Debug\netcoreapp3.1\encapsulamentoPOO.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\encapsulamentoPOO\obj\Debug\netcoreapp3.1\encapsulamentoPOO.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\encapsulamentoPOO\obj\Debug\netcoreapp3.1\encapsulamentoPOO.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\encapsulamentoPOO\obj\Debug\netcoreapp3.1\encapsulamentoPOO.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\encapsulamentoPOO\obj\Debug\netcoreapp3.1\encapsulamentoPOO.dll
+C:\Users\gabriel\Documents\GitHub\encapsulamentoPOO\obj\Debug\netcoreapp3.1\encapsulamentoPOO.pdb
+C:\Users\gabriel\Documents\GitHub\encapsulamentoPOO\obj\Debug\netcoreapp3.1\encapsulamentoPOO.genruntimeconfig.cache
